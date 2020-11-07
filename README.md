@@ -1,4 +1,30 @@
-### Hi there 👋
+# Welcome!👋🏻🙋🏻‍♂️
+
+I'm brazilian guy how's love code 🇧🇷👨🏻‍💻
+
+## Programming languages:
+
+- C# ❤️
+- Javascript 💪🏻
+- Python 🤩
+- C/C++ 🤓
+
+------------------------------------------
+
+## Other skills:
+
+- Power bi 📊
+- Microsoft workplace (flow, powerapps, SharePoint, Teams...) 💻
+- Azure Devops 🕵🏻‍♂️
+- Cordova 📳
+
+-----------------------------------------------
+
+## Skills that I'm learning:
+
+- React\React Native 📲🌐
+- Devops (Docker, Kubernetes) 🐋
+
 
 <!--
 **Inatan/Inatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
