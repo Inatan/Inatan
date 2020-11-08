@@ -1,6 +1,10 @@
 # Welcome!👋🏻🙋🏻‍♂️
 
+![welcome](https://media.giphy.com/media/PhZg0xidOOT7uo0jE3/giphy.gif)
+
 I'm brazilian guy how's love code 🇧🇷👨🏻‍💻
+
+Lover of gym 🏋🏻‍♀️, karate 🥋 and gamer 🎮(in free time)
 
 ## Programming languages:
 
@@ -24,6 +28,9 @@ I'm brazilian guy how's love code 🇧🇷👨🏻‍💻
 
 - React\React Native 📲🌐
 - Devops (Docker, Kubernetes) 🐋
+
+If you wanna contact:
+✉ inatan.hertzog@gmai.com
 
 
 <!--
