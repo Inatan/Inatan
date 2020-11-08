@@ -4,7 +4,7 @@
 
 I'm brazilian guy how's love code 👨🏻‍💻
 
-Lover of gym 🏋🏻‍♂️, karate 🥋 and gamer 🎮(in free time)
+Lover of gym 🏋🏻‍♂️, karate 🥋 and games 🎮(in free time)
 
 Dedicate husband 🤵🏻
 
