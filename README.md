@@ -10,10 +10,9 @@ I'm brazilian guy how's love code 👨🏻‍💻
 
 ## Programming languages:
 
-- C# ❤️
+- .NET Framework/Core ❤️
 - Javascript 💪🏻
 - Python 🤩
-- C/C++ 🤓
 
 ------------------------------------------
 
@@ -22,7 +21,8 @@ I'm brazilian guy how's love code 👨🏻‍💻
 - Power bi 📊
 - Microsoft workplace (flow, powerapps, SharePoint, Teams...) 💻
 - Azure Devops 🕵🏻‍♂️
-- Cordova 📳
+- SQL Server
+
 
 -----------------------------------------------
 
@@ -30,6 +30,7 @@ I'm brazilian guy how's love code 👨🏻‍💻
 
 - React\React Native 📲🌐
 - Devops (Docker, Kubernetes) 🐋
+- Elixir
 
 If you wanna contact:
 
