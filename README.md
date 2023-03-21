@@ -10,26 +10,27 @@ I'm brazilian guy how's love code 👨🏻‍💻
 
 ## Programming languages:
 
-- .NET Framework/Core ❤️
+- .NET ❤️
 - Javascript 💪🏻
-- Python 🤩
+- React Native 🤩
+- React
+- Angular
 
 ------------------------------------------
 
 ## Other skills:
 
+- AWS
+- Azure
+- SQL Server, MySQL, Postgres
+- Docker 🐋
 - Power bi 📊
 - Microsoft workplace (flow, powerapps, SharePoint, Teams...) 💻
-- Azure Devops 🕵🏻‍♂️
-- SQL Server
-
 
 -----------------------------------------------
 
 ## Skills that I'm learning:
-
-- React\React Native 📲🌐
-- Devops (Docker, Kubernetes) 🐋
+- Kubernetes 
 - Elixir
 
 If you wanna contact:
