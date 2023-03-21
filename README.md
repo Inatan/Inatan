@@ -30,9 +30,11 @@ I'm brazilian guy how's love code 👨🏻‍💻
 -----------------------------------------------
 
 ## Skills that I'm learning:
-- Kubernetes 
-- Elixir
 
+- Terraforms
+- Elixir
+- Jenkins
+- Kubernetes
 If you wanna contact:
 
 [<img src="https://camo.githubusercontent.com/e09d48a8042e44b612d5669850b937e0f201766b86c05bb69fb78238e8f0b45c/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3137342f3137343835372e737667" alt="linkedin" width="50"/>](https://www.linkedin.com/in/inatan-hertzog/)
